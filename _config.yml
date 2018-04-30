@@ -30,14 +30,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-subtitle: Your awesome subtitle
+title: Portfolio and Manifesto
+subtitle: Thomas Schweich - HCI Final Project
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+  A showcase of all work contributed to throughout CS 3041 - Human Computer Interaction by Thomas Schweich
+author: Thomas Schweich
+email: taschweich@wpi.edu
+avatar: https://avatars3.githubusercontent.com/u/1140006?s=400&u=e12e43c572ef517938e1c440b392ca68aad6072b&v=4
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/hci-manifesto/" # the subpath of your site, e.g. /blog
@@ -45,10 +44,10 @@ url: "https://thomas-schweich.github.io" # the base hostname & protocol for your
 
 # Social settings
 facebook_url:
-github_url:
+github_url: https://github.com/thomas-schweich/
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/thomas-schweich/
 pinterest_url:
 slack_url:
 twitter_url:
