@@ -6,5 +6,5 @@ auto-header: none
 icon: fa-comment
 order: 1
 ---
-# Thomas Schweich
-## Design Manifesto & Portfolio
+## Thomas Schweich
+### [Design Manifesto](https://thomas-schweich.github.io/hci-manifesto/manifesto.html) & Portfolio
