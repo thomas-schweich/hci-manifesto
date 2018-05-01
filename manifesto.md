@@ -37,7 +37,7 @@ Something like a mood board is perfect for this task. It gives you something to 
 
 ![Flag of Worcester](https://cdn-images-1.medium.com/max/1440/0*qgRZfeT_Jd7CkdG5.)
 
-Though the City of Worcester is doubtlessly important to the visitors of the Worcester Public Library, its flag and its, er, *dominating* color is hardly useful to you.
+Though the City of Worcester is doubtlessly important to the visitors of the Worcester Public Library, its flag and its, er, *dominating* color was hardly useful to me.
 
 When you're creating a chat bot, however, things are quite different. You likely won't personally design the visuals the user sees. As a result, the mood you give off comes soley from the user's interactions with your bot. Does it seem abrasive, or helpful? Thus, it becomes important to find this sort of thing out.
 
@@ -46,6 +46,7 @@ When you're creating a chat bot, however, things are quite different. You likely
 As important as feedback from others is (more on that later), you yourself aren't useless. After a long day of hacking, it can be very important to step back for a while so you can ask yourself for feedback later. I use the same strategy here as I do when writing a paper: don't try to create from scratch and edit in the same sitting. Perhaps you should sleep on it. After waiting a while, it becomes easier to let go of your biases and evaluate your project for what it is. Just because I spent a long time figuring out what what the chatbot should say to a student doesn't mean its reaction is actually useful. The next morning, I'll likely have to suck it up and delete some code, replacing it with something better.
 
 An extremely common sentiment among the readings of the class was that the end-user often doesn't really know what they want, at least not directly. It is far easier to show someone something close to what they want and ask them to improve it than to get them to come up with ideas from scratch. Thus, despite your biases, you as the creater have something over a random user in your target demographic: you know the goal. Your own viewpoint is one of the most important to the success of any project. Use it well. That being said, you can't stop there.
+
 
 ### Ask someone else
 
@@ -64,3 +65,9 @@ Thus, I decided that perhaps each major could be shown, but the information coul
 I was fairly satisfied with this result, but after demoing it, realized that it could be confusing. It turned out to be difficult for people to discern what the actual message of the graph was. A statement like "notice how blue it gets below 4%" helped a lot.
 
 
+### Don't be afraid to publish
+
+The single largest trip-up throughout the class was failing to follow the above points due to late publishing of actual work. If you publish for the first time the night before demoing the product, you never have time to look over the project yourself. As a result, users are stuck catching obvious problems which disable them from giving the valuable feedback you hoped for. Publishing a bad project can be a valuable experience, and should be of high priority. Sometimes, a raw HTML-dump is just what the doctor ordered.
+
+
+Developing projects for Human Computer Interaction showed me the value in thinking ahead. 
