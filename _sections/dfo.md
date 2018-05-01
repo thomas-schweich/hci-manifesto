@@ -1,6 +1,5 @@
 ---
 title: Design for Others
-icon: fa-book
 order: 3
 ---
 <a href="https://medium.com/@yizhenwang97/design-for-others-demo-documentation-team-2-7ba47f10977c">
