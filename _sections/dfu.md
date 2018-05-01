@@ -1,5 +1,5 @@
 ---
-title: Design for Others
+title: Design for Understanding
 icon: fa-chart-bar
 order: 4
 ---
