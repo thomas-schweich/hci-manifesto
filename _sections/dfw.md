@@ -1,5 +1,5 @@
 ---
-title: Design for Others
+title: Design for Wellbeing
 icon: fa-smile
 order: 6
 ---
