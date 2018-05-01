@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 icon: fa-portrait
-hide: true
+unlisted: true
 order: 2
 ---
 
